@@ -19,5 +19,3 @@ guess_the_files() {
   echo "Congratulations! You guessed the correct number of files."
 }
 
-# Call the function
-guess_the_files
